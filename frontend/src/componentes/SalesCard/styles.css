@@ -90,7 +90,7 @@
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 929px) {
     .show992 {
         display: table-cell;
     }
